@@ -2,7 +2,7 @@
 - 👀 I’m interested in Create a mobile api
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on whatever I can, after learning to program. I am very creative, and I will surely innovate.
-- 📫 How to reach me: moises.puyosa01@gmail.com
+- 📫 How to reach me: moises.puyosa@gmail.com
 - 😄 Pronouns: moimoi
 - ⚡ Fun fact: I'm 55 years old, what do you think?
 
